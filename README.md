@@ -31,4 +31,4 @@
 
 TO FINISH : 
  * npm install animate.css --save
-  * npm i react-on-screen
+  * npm i react-on-screen# my_portfolio_website
