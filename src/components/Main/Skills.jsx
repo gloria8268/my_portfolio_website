@@ -49,19 +49,23 @@ function Skills() {
               >
                 <div className="item">
                   <img src={meter1} alt="" />
-                  <h5>Web Development</h5>
-                </div>
-                <div className="item">
-                  <img src={meter2} alt="" />
-                  <h5>Brand Identity</h5>
+                  <h5>Excel DAX VBA</h5>
                 </div>
                 <div className="item">
                   <img src={meter3} alt="" />
-                  <h5>Logo Design</h5>
+                  <h5>Power BI</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="" />
-                  <h5>Web Development</h5>
+                  <img src={meter2} alt="" />
+                  <h5>DataBase</h5>
+                </div>
+                <div className="item">
+                  <img src={meter3} alt="" />
+                  <h5>JS React</h5>
+                </div>
+                <div className="item">
+                  <img src={meter2} alt="" />
+                  <h5>NodeJs</h5>
                 </div>
               </Carousel>
             </div>

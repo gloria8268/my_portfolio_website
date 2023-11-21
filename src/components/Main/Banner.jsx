@@ -79,11 +79,7 @@ function Banner() {
                     </span>
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book.
+                  With 10 years of accounting experience and a strong financial analysis background, I've successfully navigated the intricacies of financial management. In the past year, driven by a passion for the tech industry, I ventured into learning full-stack development.This exploration has sparked a profound interest in the field, and I am eager to contribute to and thrive in the dynamic intersection of finance and technology.
                   </p>
                   <button onClick={() => console.log("connect")}>
                     Let's Connect <ArrowRightCircle size={25} />
