@@ -12,8 +12,8 @@ function Banner() {
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   // const [index, setIndex] = useState(1);
   const toRotate = [
-    "Professinal Accountant",
-    "Financial Analyst",
+    "Senior Finance Analyst",
+    "Data Analyst",
     "Web Developer",
   ];
   const period = 2000;
